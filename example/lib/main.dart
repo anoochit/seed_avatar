@@ -40,7 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: SeedAvatarWidget(
           seed: 'anoochit@gmail.com',
-          style: AvatarStyle.thumbs,
+          style: AvatarStyle.notionists,
           size: 256.0,
         ),
       ),
