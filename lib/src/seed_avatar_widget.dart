@@ -5,11 +5,11 @@ import 'package:flutter_svg/flutter_svg.dart';
 ///
 /// The avatar is fetched from the DiceBear API based on the provided [seed]
 /// and [style]. The [size] parameter controls the dimensions of the avatar.
-class SeedAvatarWidget extends StatelessWidget {
-  /// Creates a [SeedAvatarWidget].
+class SeedAvatar extends StatelessWidget {
+  /// Creates a [SeedAvatar].
   ///
   /// The [seed] and [style] parameters must not be null.
-  const SeedAvatarWidget({
+  const SeedAvatar({
     super.key,
     required this.seed,
     required this.style,

@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        child: SeedAvatarWidget(
+        child: SeedAvatar(
           seed: 'anoochit@gmail.com',
           style: AvatarStyle.notionists,
           size: 256.0,
