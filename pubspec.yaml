@@ -1,7 +1,7 @@
 name: seed_avatar
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/anoochit/seed_avatar
 
 environment:
   sdk: ^3.7.0
