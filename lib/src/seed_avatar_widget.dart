@@ -18,7 +18,7 @@ class SeedAvatarWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SvgPicture.network(
-      'https://api.dicebear.com/9.x/${style.name.replaceAll('_', '-')}/svg?seed=${seed}',
+      'https://api.dicebear.com/9.x/${style.name.replaceAll('_', '-')}/svg?seed=$seed',
       width: size,
     );
   }
