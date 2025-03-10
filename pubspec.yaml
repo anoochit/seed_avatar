@@ -1,5 +1,5 @@
 name: seed_avatar
-description: "A new Flutter package project."
+description: "A Flutter package to easily generate and display unique avatars based on a seed string using the DiceBear API."
 version: 0.0.1
 homepage: https://github.com/anoochit/seed_avatar
 
